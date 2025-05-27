@@ -18,3 +18,12 @@ section {
     max-width: 900px;
     margin: auto;
 }
+footer {
+      background-color: #3e8e41;
+      color: white;
+      text-align: center;
+      padding: 10px;
+      position: fixed;
+      bottom: 0;
+      width: 100%;
+    }
