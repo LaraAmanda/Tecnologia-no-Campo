@@ -4,3 +4,12 @@ h1{
       padding: 20px;
       text-align: center;
 }
+footer {
+      background-color: #3e8e41;
+      color: white;
+      text-align: center;
+      padding: 10px;
+      position: fixed;
+      bottom: 0;
+      width: 100%;
+    }
