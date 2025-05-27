@@ -52,10 +52,7 @@
     box-shadow: 4px 4px 8px #3e8e41(0, 0, 0, 0.2);
     transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
-.pagina:hover {
-    transform: translateY(-5px) scale(1.05);
-    box-shadow: 0 0 0 0px rgba(3, 143, 50, 0.774);
-}
+
 
 .pagina a {
     color: var(--verde);
