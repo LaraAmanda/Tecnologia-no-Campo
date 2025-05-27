@@ -42,7 +42,7 @@
     flex-wrap: wrap;
 }
 .pagina {
-    display: flex;
+    display:inline-flexbox;
     justify-content:first baseline;
     background-color: #40E0D0);
     border-radius: 10px;
