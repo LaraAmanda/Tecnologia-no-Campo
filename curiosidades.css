@@ -25,3 +25,9 @@ body {
       bottom: 0;
       width: 100%;
     }
+    h1{
+      background-color: #3e8e41;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
