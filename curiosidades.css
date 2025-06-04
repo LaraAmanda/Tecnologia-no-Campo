@@ -16,12 +16,6 @@ body {
       max-width: 900px;
       margin: auto;
     }
-   
-    .curiosidades {
-      background-color: #dff0dc;
-      padding: 15px;
-      border-radius: 10px;
-    }
     footer {
       background-color: #3e8e41;
       color: white;
