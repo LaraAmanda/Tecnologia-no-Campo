@@ -70,9 +70,9 @@
     border-radius: 5px;
     box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
     transition: transform 0.3s ease;
-    position:sticky;
-    top: 0px;
-    left: 10;
+    position:fixed;
+    top: 0;
+    left: 0;
     width: 400px;
 }
 
