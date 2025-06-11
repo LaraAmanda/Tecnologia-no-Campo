@@ -71,8 +71,8 @@
     height:max-content;
     border-radius: 5px;
     transition: transform 0.3s ease;
-    top: 400;
-    left: 500;
+    top: 0;
+    left: 0;
     width: 400px;
 }
 
