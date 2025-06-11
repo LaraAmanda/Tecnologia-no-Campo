@@ -44,7 +44,7 @@
 .pagina {
     display:flex;
     background-color: #8de2ab;
-    border-radius: 10px;
+    border-radius: 9px;
     padding: 10px;
     width: 80%;
     min-width: 120px;
