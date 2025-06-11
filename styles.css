@@ -71,8 +71,8 @@
     box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
     transition: transform 0.3s ease;
     position:sticky;
-    top: 600px;
-    left: 0;
+    top: 0px;
+    left: 10;
     width: 400px;
 }
 
