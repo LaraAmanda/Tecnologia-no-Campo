@@ -75,3 +75,11 @@
 .gallery img:hover {
     transform: scale(1.05);
 }
+
+.gallery {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 150px;
+    height:auto;
+}
