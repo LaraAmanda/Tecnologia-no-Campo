@@ -47,7 +47,7 @@
     border-radius: 5px;
     padding: 10px;
     width: 80%;
-    min-width: 10px;
+    min-width: 210px;
     box-shadow: 4px 4px 4px #3e8e41(0, 0, 0, 0);
     transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
